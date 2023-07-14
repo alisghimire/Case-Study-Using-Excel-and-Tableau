@@ -50,7 +50,7 @@ Here's a step-by-step description of how I cleaned up the dataset using Excel:
 
 Here’s how the dataset looks like after implementing these steps:
 
-![After cleanup.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/001f41d0-b833-45d6-9a65-3975472f8ccb/After_cleanup.jpg)
+![After cleanup](https://github.com/alisghimire/Case-Study-Using-Excel-and-Tableau/assets/109817585/3d9ffad4-5d74-4d4c-8fc0-6c108a4a66f3)
 
 
 
