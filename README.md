@@ -2,6 +2,7 @@
 
 This exploratory analysis is part of my portfolio involving real-world scenario. I dive into a revenue report of a B2B company and demonstrate my data analysis skills in a simulated business context, offering insights and findings derived from examining the dataset. 
 
+
 This analysis will feature 6 steps of data analysis process: Ask, Prepare, Process, Analyse, Visualize, and Act.
 
 
