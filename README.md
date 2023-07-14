@@ -28,7 +28,7 @@ Thus data cleaning is required to ensure accuracy and consistency.
 
 Here’s what the dataset looks like initially:
 
-![Before Cleanup.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15c495cb-c663-44c3-bcca-a9d90d149ac5/Before_Cleanup.jpg)
+![Before Cleanup](https://github.com/alisghimire/Case-Study-Using-Excel-and-Tableau/assets/109817585/7ece6bba-a30f-4ab5-879a-40d3ad932b79)
 
 
 
