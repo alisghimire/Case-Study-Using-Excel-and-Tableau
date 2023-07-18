@@ -65,7 +65,7 @@ The charts I created in Tableau provided a clear visual representation of the da
 
 ## VISUALIZE
 
-![Tableau Dashboard Excel](https://github.com/alisghimire/Case-Study-Using-Excel-and-Tableau/assets/109817585/c70f6124-042d-4b8f-8d68-9c83ef7c6d64)
+![My Dashboard](https://github.com/alisghimire/Case-Study-Using-Excel-and-Tableau/assets/109817585/62e969f3-d958-4cfe-9cb2-287ad516fcb7)
 
 
 
